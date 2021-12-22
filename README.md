@@ -8,6 +8,10 @@ Tecnologie utilizzate:
 - Per eseguire il programma l'IDE dovrà essere fornito con tutti i branch di Java AWT, Swing.
 - Versione SDK.15 o Superiore. 
 
+Credenziali amministrative d'accesso:
+Username: admin
+Password: admin
+
 Obiettivo del Progetto:
 - Progettare un'applicazione per la gestione delle spedizioni di un'azienda 
 - Il programma è dotato di interfaccia grafica tramite cui interagire con il programma stesso. 
