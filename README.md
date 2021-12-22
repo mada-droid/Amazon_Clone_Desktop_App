@@ -18,7 +18,6 @@ Obiettivo del Progetto:
 - Il programma è eseguibile da linea di comando. 
 
 Descrizione del Progetto:
-Il presente progetto si propone di descrivere e sviluppare una applicazione Java che abbia le seguenti:
 
         funzionalità:
                 • Login e registrazione dei clienti che inseriscono i dati delle loro spedizioni
