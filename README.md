@@ -47,8 +47,8 @@ An authenticated customer should be able to create one or more shipment requests
 
 ### A normal shipment is characterized by:
 ``` IN PREPARATION ```
-‵‵‵ IN TRANSIT ‵‵‵
-‵‵‵ RECEIVED or FAILED ‵‵‵
+``` IN TRANSIT ```
+``` RECEIVED or FAILED ```
 
 ### An insured shipment, in addition to the fields of a normal shipment, adds the characteristic of insured value, which represents the amount of money a customer can request from the shipping company in case of shipment failure.
 
@@ -58,8 +58,8 @@ Once a normal shipment is entered into the system, it will have the following st
 - RECEIVED or FAILED
 
 If the shipment is insured, two additional possible states are added:
-‵‵‵ REFUND REQUESTED ‵‵‵
-‵‵‵ REFUND ISSUED ‵‵‵
+``` REFUND REQUESTED ```
+``` REFUND ISSUED ```
 
 Upon the first entry of shipment data by the user, the shipment will be assigned the "IN PREPARATION" state. It will then be the responsibility of the admin to transition the shipment's state to one of the other states, following the detailed logic in the next section.
 
