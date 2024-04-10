@@ -1,6 +1,6 @@
 # Amazon_Clone_Desktop_App
 
-###Technologies Used:
+### Technologies Used:
 - IDE: Eclipse
 - To run the program, the IDE must have all Java AWT and Swing branches.
 - SDK version 15 or higher.
