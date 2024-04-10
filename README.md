@@ -46,7 +46,7 @@ An authenticated customer should be able to create one or more shipment requests
 - The date on which each shipment was made.
 
 ### A normal shipment is characterized by:
-‵‵‵ IN PREPARATION ‵‵‵
+``` IN PREPARATION ```
 ‵‵‵ IN TRANSIT ‵‵‵
 ‵‵‵ RECEIVED or FAILED ‵‵‵
 
